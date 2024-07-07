@@ -17,9 +17,9 @@ const getProducts = async (req, res) => {
       conf.title = { $regex: req.query.title, $options: "i" };
     }
 
-    console.log(conf);
     const products = await Product.find(conf);
     res.status(200).json({ products });
+    return products;
   } catch (error) {
     res.status(400).json({ error: "Error DB" });
   }

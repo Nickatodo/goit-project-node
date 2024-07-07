@@ -22,10 +22,29 @@ const userSchema = Schema(
       type: String,
       default: null,
     },
-    // Probablemente haya que guardar en el usuario peso altura y demas datos.
+    height: {
+      type: Number,
+      default: null,
+    },
+    desiredWeight: {
+      type: Number,
+      default: null,
+    },
+    age: {
+      type: Number,
+      default: null,
+    },
     bloodType: {
       type: String,
       enum: ["A", "B", "AB", "O"],
+      default: null,
+    },
+    currentWeight: {
+      type: Number,
+      default: null,
+    },
+    totalCalories: {
+      type: Number,
       default: null,
     },
   },
@@ -43,7 +62,16 @@ const addUserSchema = Joi.object({
   password: Joi.string().min(8).max(20).required(),
 });
 
+const addDataUserSchema = Joi.object({
+  height: Joi.number().required(),
+  desiredWeight: Joi.number().required(),
+  age: Joi.number().required(),
+  bloodType: Joi.string().valid("A", "B", "AB", "O").required(),
+  currentWeight: Joi.number().required(),
+});
+
 module.exports = {
   User,
   addUserSchema,
+  addDataUserSchema,
 };
