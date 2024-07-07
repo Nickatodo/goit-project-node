@@ -21,7 +21,7 @@ const registerUser = async (req, res) => {
       });
     }
 
-    const bcrypSalt = parseInt(process.env.SALT);
+    const bcrypSalt = bcrypt.genSaltSync();
     const createUser = User({
       name: req.body.name,
       email: req.body.email,

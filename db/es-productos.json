@@ -7,7 +7,7 @@
     "weight": 100,
     "title": "Amaranth",
     "calories": 371,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -18,7 +18,7 @@
     "weight": 100,
     "title": "Buckwheat (unground) green",
     "calories": 296,
-    "groupBloodNotAllowed": [null, true, false, true, true],
+    "groupBloodNotAllowed": [true, false, true, true],
     "__v": 0
   },
   {
@@ -29,7 +29,7 @@
     "weight": 100,
     "title": "Omelet con queso",
     "calories": 342,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -40,7 +40,7 @@
     "weight": 100,
     "title": "Huevo de pollo (hervido)",
     "calories": 160,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -51,7 +51,7 @@
     "weight": 100,
     "title": "Buckwheat verde hervida",
     "calories": 110,
-    "groupBloodNotAllowed": [null, true, false, true, true],
+    "groupBloodNotAllowed": [true, false, true, true],
     "__v": 0
   },
   {
@@ -62,7 +62,7 @@
     "weight": 100,
     "title": "Avena de lino con sésamo",
     "calories": 312,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -73,7 +73,7 @@
     "weight": 100,
     "title": "Avena Myllyn Paras sin azúcar con durazno",
     "calories": 353,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -84,7 +84,7 @@
     "weight": 100,
     "title": "Avena Myllyn Paras con manzana y arándano",
     "calories": 346,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -95,7 +95,7 @@
     "weight": 100,
     "title": "Pan de Maíz",
     "calories": 266,
-    "groupBloodNotAllowed": [null, true, true, true, true],
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -106,7 +106,7 @@
     "weight": 100,
     "title": "Pan Capital",
     "calories": 210,
-    "groupBloodNotAllowed": [null, true, true, true, true],
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -117,7 +117,7 @@
     "weight": 100,
     "title": "Harina de maíz Garnets",
     "calories": 330,
-    "groupBloodNotAllowed": [null, true, false, true, true],
+    "groupBloodNotAllowed": [true, false, true, true],
     "__v": 0
   },
   {
@@ -128,7 +128,7 @@
     "weight": 100,
     "title": "Paté de carne",
     "calories": 170,
-    "groupBloodNotAllowed": [null, false, false, false, false],
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -139,7 +139,7 @@
     "weight": 100,
     "title": "Arroz Mistral de grano redondo",
     "calories": 355,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -150,7 +150,7 @@
     "weight": 100,
     "title": "Fideos de trigo sarraceno SOBA",
     "calories": 348,
-    "groupBloodNotAllowed": [null, true, false, true, true],
+    "groupBloodNotAllowed": [true, false, true, true],
     "__v": 0
   },
   {
@@ -161,7 +161,7 @@
     "weight": 100,
     "title": "Harina para pizza Myllyn Paras",
     "calories": 350,
-    "groupBloodNotAllowed": [null, true, true, true, false],
+    "groupBloodNotAllowed": [true, true, true, false],
     "__v": 0
   },
   {
@@ -172,7 +172,7 @@
     "weight": 100,
     "title": "Perdiz frita",
     "calories": 250,
-    "groupBloodNotAllowed": [null, false, false, false, false],
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -183,7 +183,7 @@
     "weight": 100,
     "title": "Guisantes Mistral Oregon",
     "calories": 327,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -194,7 +194,7 @@
     "weight": 100,
     "title": "Gachas de 7 cereales Matti",
     "calories": 320,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -205,7 +205,7 @@
     "weight": 100,
     "title": "Huevo de pato",
     "calories": 185,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -216,7 +216,7 @@
     "weight": 100,
     "title": "Trigo sarraceno hervido verde",
     "calories": 110,
-    "groupBloodNotAllowed": [null, true, false, true, true],
+    "groupBloodNotAllowed": [true, false, true, true],
     "__v": 0
   },
   {
@@ -227,7 +227,7 @@
     "weight": 100,
     "title": "Gachas de lino con sésamo",
     "calories": 312,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -238,7 +238,7 @@
     "weight": 100,
     "title": "Avena Myllyn Paras con durazno sin azúcar",
     "calories": 353,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -249,7 +249,7 @@
     "weight": 100,
     "title": "Avena Myllyn Paras con manzana y arándano rojo",
     "calories": 346,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -260,7 +260,7 @@
     "weight": 100,
     "title": "Granos de trigo blando",
     "calories": 305,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -271,7 +271,7 @@
     "weight": 100,
     "title": "Copos de avena nórdica con salvado de trigo",
     "calories": 360,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -282,7 +282,7 @@
     "weight": 100,
     "title": "Gachas de mijo desmenuzado",
     "calories": 135,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -293,7 +293,7 @@
     "weight": 100,
     "title": "Salvado de avena con arándanos",
     "calories": 118,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -304,7 +304,7 @@
     "weight": 100,
     "title": "Sémola de trigo Mistral para cuscús",
     "calories": 350,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -315,7 +315,7 @@
     "weight": 100,
     "title": "Queso de leche agria",
     "calories": 133,
-    "groupBloodNotAllowed": [null, true, true, false, false],
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -326,7 +326,7 @@
     "weight": 100,
     "title": "Fideos La Rasagnole Fettuccine de Buitoni",
     "calories": 370,
-    "groupBloodNotAllowed": [null, true, true, true, true],
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -337,7 +337,7 @@
     "weight": 100,
     "title": "Pan Donskoy",
     "calories": 219,
-    "groupBloodNotAllowed": [null, true, true, true, true],
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -348,7 +348,7 @@
     "weight": 100,
     "title": "Copos de 4 cereales Makfa",
     "calories": 360,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -359,7 +359,7 @@
     "weight": 100,
     "title": "Harina de trigo sarraceno S. Pudov",
     "calories": 350,
-    "groupBloodNotAllowed": [null, true, false, true, true],
+    "groupBloodNotAllowed": [true, false, true, true],
     "__v": 0
   },
   {
@@ -370,7 +370,7 @@
     "weight": 100,
     "title": "Pan Noble",
     "calories": 238,
-    "groupBloodNotAllowed": [null, true, true, true, true],
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -381,7 +381,7 @@
     "weight": 100,
     "title": "Suero de cuajada",
     "calories": 20,
-    "groupBloodNotAllowed": [null, true, true, false, false],
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -392,7 +392,7 @@
     "weight": 100,
     "title": "Queso estonio",
     "calories": 356,
-    "groupBloodNotAllowed": [null, true, true, false, false],
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -403,7 +403,7 @@
     "weight": 100,
     "title": "Cuajada 5%",
     "calories": 121,
-    "groupBloodNotAllowed": [null, true, true, false, false],
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -414,7 +414,7 @@
     "weight": 100,
     "title": "Pan de crema Bogorodsky",
     "calories": 189,
-    "groupBloodNotAllowed": [null, true, true, true, true],
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -425,7 +425,7 @@
     "weight": 100,
     "title": "Cordero asado",
     "calories": 320,
-    "groupBloodNotAllowed": [null, false, true, false, true],
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -436,7 +436,7 @@
     "weight": 100,
     "title": "Papel de arroz",
     "calories": 333,
-    "groupBloodNotAllowed": [null, true, true, true, true],
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -447,7 +447,7 @@
     "weight": 100,
     "title": "Queso Artis para freír y asar a la parrilla 45%",
     "calories": 282,
-    "groupBloodNotAllowed": [null, true, true, false, false],
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -458,7 +458,7 @@
     "weight": 100,
     "title": "Queso de cuajada President Rondele con ajo y hierbas",
     "calories": 325,
-    "groupBloodNotAllowed": [null, true, true, false, false],
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -469,7 +469,7 @@
     "weight": 100,
     "title": "Baton Podmoskovny",
     "calories": 261,
-    "groupBloodNotAllowed": [null, true, true, true, true],
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -480,7 +480,7 @@
     "weight": 100,
     "title": "Pastel de Pascua",
     "calories": 331,
-    "groupBloodNotAllowed": [null, true, true, true, true],
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -491,7 +491,7 @@
     "weight": 100,
     "title": "Carne de pollo picada Samson 5%",
     "calories": 105,
-    "groupBloodNotAllowed": [null, false, false, false, false],
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -502,7 +502,7 @@
     "weight": 100,
     "title": "Huevo de gallina",
     "calories": 157,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -513,7 +513,7 @@
     "weight": 100,
     "title": "Huevo de tortuga",
     "calories": 155,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -524,7 +524,7 @@
     "weight": 100,
     "title": "Copos de trigo sarraceno Mistral",
     "calories": 345,
-    "groupBloodNotAllowed": [null, true, false, true, true],
+    "groupBloodNotAllowed": [true, false, true, true],
     "__v": 0
   },
   {
@@ -535,7 +535,7 @@
     "weight": 100,
     "title": "Tortilla",
     "calories": 184,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -546,7 +546,7 @@
     "weight": 100,
     "title": "Salvado de amaranto Di&Di con trigo sarraceno",
     "calories": 345,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -557,7 +557,7 @@
     "weight": 100,
     "title": "Quinua Mistral",
     "calories": 368,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -568,7 +568,7 @@
     "weight": 100,
     "title": "Granos de trigo sarraceno",
     "calories": 316,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -579,7 +579,7 @@
     "weight": 100,
     "title": "Avena Myllyn Paras con bayas silvestres y sin azúcar",
     "calories": 363,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -590,7 +590,7 @@
     "weight": 100,
     "title": "Cebada perlada",
     "calories": 320,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -601,7 +601,7 @@
     "weight": 100,
     "title": "Avena Mistral Cheesecake de arándanos",
     "calories": 351,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -612,7 +612,7 @@
     "weight": 100,
     "title": "Copos de avena Hercules",
     "calories": 352,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -620,10 +620,10 @@
       "$oid": "5d51694902b2373622ff593e"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Carne de res de grasa media",
-    "calorías": 275,
-    "gruposSanguíneosNoPermitidos": [null, false, true, false, true],
+    "weight": 100,
+    "title": "Carne de res de grasa media",
+    "calories": 275,
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -631,10 +631,10 @@
       "$oid": "5d51694902b2373622ff578e"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Caciocavallo",
-    "calorías": 209,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Caciocavallo",
+    "calories": 209,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -642,10 +642,10 @@
       "$oid": "5d51694902b2373622ff57a4"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Mascarpone",
-    "calorías": 412,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Mascarpone",
+    "calories": 412,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -653,10 +653,10 @@
       "$oid": "5d51694802b2373622ff5616"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Arroz Zhmenka Arborio",
-    "calorías": 354,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Arroz Zhmenka Arborio",
+    "calories": 354,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -664,10 +664,10 @@
       "$oid": "5d51694902b2373622ff59da"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Patas de rana",
-    "calorías": 73,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Patas de rana",
+    "calories": 73,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -675,10 +675,10 @@
       "$oid": "5d51694802b2373622ff5531"
     },
     "categories": "huevos",
-    "peso": 100,
-    "título": "Huevo frito",
-    "calorías": 215,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Huevo frito",
+    "calories": 215,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -686,10 +686,10 @@
       "$oid": "5d51694802b2373622ff5557"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Gachas de alforfón de grano",
-    "calorías": 101,
-    "gruposSanguíneosNoPermitidos": [null, true, false, true, true],
+    "weight": 100,
+    "title": "Gachas de alforfón de grano",
+    "calories": 101,
+    "groupBloodNotAllowed": [true, false, true, true],
     "__v": 0
   },
   {
@@ -697,10 +697,10 @@
       "$oid": "5d51694802b2373622ff554c"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Guisantes Agro-Alliance picados",
-    "calorías": 350,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Guisantes Agro-Alliance picados",
+    "calories": 350,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -708,10 +708,10 @@
       "$oid": "5d51694802b2373622ff55ab"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Avena en agua",
-    "calorías": 88,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Avena en agua",
+    "calories": 88,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -719,10 +719,10 @@
       "$oid": "5d51694802b2373622ff55d1"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Copos de avena n.° 2 Agro-Alliance",
-    "calorías": 390,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Copos de avena n.° 2 Agro-Alliance",
+    "calories": 390,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -730,10 +730,10 @@
       "$oid": "5d51694902b2373622ff5910"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Lengua de oveja",
-    "calorías": 195,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Lengua de oveja",
+    "calories": 195,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -741,10 +741,10 @@
       "$oid": "5d51694802b2373622ff56eb"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Harina de centeno Ryazanochka",
-    "calorías": 298,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Harina de centeno Ryazanochka",
+    "calories": 298,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -752,10 +752,10 @@
       "$oid": "5d51694902b2373622ff5716"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Espaguetis Shirataki Diet-Food",
-    "calorías": 8,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Espaguetis Shirataki Diet-Food",
+    "calories": 8,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -763,10 +763,10 @@
       "$oid": "5d51694902b2373622ff5792"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Comté",
-    "calorías": 407,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Comté",
+    "calories": 407,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -774,10 +774,10 @@
       "$oid": "5d51694902b2373622ff57f6"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Producto de queso Parisian Burenka",
-    "calorías": 232,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Producto de queso Parisian Burenka",
+    "calories": 232,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -785,10 +785,10 @@
       "$oid": "5d51694902b2373622ff59a0"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Hamburguesas de res Miratorg Black Angus",
-    "calorías": 360,
-    "gruposSanguíneosNoPermitidos": [null, false, true, false, true],
+    "weight": 100,
+    "title": "Hamburguesas de res Miratorg Black Angus",
+    "calories": 360,
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -796,10 +796,10 @@
       "$oid": "5d51694802b2373622ff569a"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Fideos udon",
-    "calorías": 337,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Fideos udon",
+    "calories": 337,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -807,10 +807,10 @@
       "$oid": "5d51694902b2373622ff5889"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Cuernos de mantequilla",
-    "calorías": 345,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Cuernos de mantequilla",
+    "calories": 345,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -818,10 +818,10 @@
       "$oid": "5d51694902b2373622ff5973"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Pavo (pierna)",
-    "calorías": 131,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Pavo (pierna)",
+    "calories": 131,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -829,10 +829,10 @@
       "$oid": "5d51694802b2373622ff5659"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Copos de lentejas rojas Myllyn Paras",
-    "calorías": 320,
-    "gruposSanguíneosNoPermitidos": [null, true, false, true, false],
+    "weight": 100,
+    "title": "Copos de lentejas rojas Myllyn Paras",
+    "calories": 320,
+    "groupBloodNotAllowed": [true, false, true, false],
     "__v": 0
   },
   {
@@ -840,10 +840,10 @@
       "$oid": "5d51694802b2373622ff568b"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Conchiglioni",
-    "calorías": 344,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Conchiglioni",
+    "calories": 344,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -851,10 +851,10 @@
       "$oid": "5d51694902b2373622ff575b"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Atleta",
-    "calorías": 290,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Atleta",
+    "calories": 290,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -862,10 +862,10 @@
       "$oid": "5d51694902b2373622ff57b4"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Pecorino",
-    "calorías": 419,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Pecorino",
+    "calories": 419,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -873,10 +873,10 @@
       "$oid": "5d51694902b2373622ff59cb"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Cuellos de pollo",
-    "calorías": 297,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Cuellos de pollo",
+    "calories": 297,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -884,10 +884,10 @@
       "$oid": "5d51694802b2373622ff5564"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Copos de alforfón Myllyn Paras",
-    "calorías": 340,
-    "gruposSanguíneosNoPermitidos": [null, true, false, true, true],
+    "weight": 100,
+    "title": "Copos de alforfón Myllyn Paras",
+    "calories": 340,
+    "groupBloodNotAllowed": [true, false, true, true],
     "__v": 0
   },
   {
@@ -895,10 +895,10 @@
       "$oid": "5d51694802b2373622ff5546"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Bran de amaranto Di&Di con alcachofa de Jerusalén",
-    "calorías": 345,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Bran de amaranto Di&Di con alcachofa de Jerusalén",
+    "calories": 345,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -906,10 +906,10 @@
       "$oid": "5d51694802b2373622ff5545"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Bran de amaranto Di&Di con algas",
-    "calorías": 311,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Bran de amaranto Di&Di con algas",
+    "calories": 311,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -917,10 +917,10 @@
       "$oid": "5d51694802b2373622ff5561"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Sémola de alforfón Garnets sin gluten",
-    "calorías": 350,
-    "gruposSanguíneosNoPermitidos": [null, true, false, true, true],
+    "weight": 100,
+    "title": "Sémola de alforfón Garnets sin gluten",
+    "calories": 350,
+    "groupBloodNotAllowed": [true, false, true, true],
     "__v": 0
   },
   {
@@ -928,10 +928,10 @@
       "$oid": "5d51694802b2373622ff55b5"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Bran de avena Diadar crujiente",
-    "calorías": 197,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Bran de avena Diadar crujiente",
+    "calories": 197,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -939,10 +939,10 @@
       "$oid": "5d51694802b2373622ff55b6"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Bran de avena Mistral",
-    "calorías": 346,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Bran de avena Mistral",
+    "calories": 346,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -950,10 +950,10 @@
       "$oid": "5d51694802b2373622ff558d"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Muesli Oh! horneado con plátano",
-    "calorías": 460,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Muesli Oh! horneado con plátano",
+    "calories": 460,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -961,10 +961,10 @@
       "$oid": "5d51694802b2373622ff55cf"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Copos de avena Yasno Solnyshko №1",
-    "calorías": 310,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Copos de avena Yasno Solnyshko №1",
+    "calories": 310,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -972,10 +972,10 @@
       "$oid": "5d51694802b2373622ff55d7"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Cebada perlada Makfa en bolsas",
-    "calorías": 315,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Cebada perlada Makfa en bolsas",
+    "calories": 315,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -983,10 +983,10 @@
       "$oid": "5d51694802b2373622ff55d0"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Copos de avena Yasno Solnyshko №2",
-    "calorías": 310,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Copos de avena Yasno Solnyshko №2",
+    "calories": 310,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -994,10 +994,10 @@
       "$oid": "5d51694802b2373622ff55e4"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Granos de trigo duro",
-    "calorías": 304,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Granos de trigo duro",
+    "calories": 304,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1005,10 +1005,10 @@
       "$oid": "5d51694802b2373622ff55e6"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Bran de trigo Wow!",
-    "calorías": 326,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Bran de trigo Wow!",
+    "calories": 326,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1016,10 +1016,10 @@
       "$oid": "5d51694802b2373622ff558f"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Nuez Agro-Alliance",
-    "calorías": 390,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Nuez Agro-Alliance",
+    "calories": 390,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1027,10 +1027,10 @@
       "$oid": "5d51694802b2373622ff55a7"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Avena Mistral Tiramisú",
-    "calorías": 355,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Avena Mistral Tiramisú",
+    "calories": 355,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1038,10 +1038,10 @@
       "$oid": "5d51694802b2373622ff55ed"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Sémola de mijo Mistral pulida",
-    "calorías": 342,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Sémola de mijo Mistral pulida",
+    "calories": 342,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1049,10 +1049,10 @@
       "$oid": "5d51694802b2373622ff5603"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Arroz Agro-Alliance para pilaf",
-    "calorías": 420,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Arroz Agro-Alliance para pilaf",
+    "calories": 420,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1060,10 +1060,10 @@
       "$oid": "5d51694802b2373622ff560c"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Arroz Agro-Alliance negro Southern night",
-    "calorías": 260,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Arroz Agro-Alliance negro Southern night",
+    "calories": 260,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1071,10 +1071,10 @@
       "$oid": "5d51694802b2373622ff56dd"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Harina de trigo de 2ª clase",
-    "calorías": 324,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Harina de trigo de 2ª clase",
+    "calories": 324,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1082,10 +1082,10 @@
       "$oid": "5d51694902b2373622ff5783"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Carat Violette cuajada cremosa",
-    "calorías": 298,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Carat Violette cuajada cremosa",
+    "calories": 298,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -1093,10 +1093,10 @@
       "$oid": "5d51694902b2373622ff5823"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Requesón Milava 9% natural",
-    "calorías": 147,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Requesón Milava 9% natural",
+    "calories": 147,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -1104,10 +1104,10 @@
       "$oid": "5d51694902b2373622ff5900"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pan crujiente Croisette de centeno",
-    "calorías": 300,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pan crujiente Croisette de centeno",
+    "calories": 300,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1115,10 +1115,10 @@
       "$oid": "5d51694802b2373622ff560d"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Arroz Arborio",
-    "calorías": 330,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Arroz Arborio",
+    "calories": 330,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1126,10 +1126,10 @@
       "$oid": "5d51694802b2373622ff561c"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Arroz Zhmenka vaporizado",
-    "calorías": 341,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Arroz Zhmenka vaporizado",
+    "calories": 341,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1137,10 +1137,10 @@
       "$oid": "5d51694802b2373622ff5689"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Capellini",
-    "calorías": 346,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Capellini",
+    "calories": 346,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1148,10 +1148,10 @@
       "$oid": "5d51694802b2373622ff568a"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Empanadillas",
-    "calorías": 160,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Empanadillas",
+    "calories": 160,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1159,10 +1159,10 @@
       "$oid": "5d51694802b2373622ff56e6"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Harina de trigo integral",
-    "calorías": 312,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Harina de trigo integral",
+    "calories": 312,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1170,10 +1170,10 @@
       "$oid": "5d51694902b2373622ff578d"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Castello Danablue",
-    "calorías": 339,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Castello Danablue",
+    "calories": 339,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -1181,10 +1181,10 @@
       "$oid": "5d51694902b2373622ff57cb"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Sbrinz",
-    "calorías": 429,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Sbrinz",
+    "calories": 429,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -1192,10 +1192,10 @@
       "$oid": "5d51694802b2373622ff569e"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pasta tallarines",
-    "calorías": 370,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pasta tallarines",
+    "calories": 370,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1203,10 +1203,10 @@
       "$oid": "5d51694802b2373622ff56a3"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pasta penne rigate",
-    "calorías": 362,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pasta penne rigate",
+    "calories": 362,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1214,10 +1214,10 @@
       "$oid": "5d51694802b2373622ff56b4"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pasta fettuccine",
-    "calorías": 365,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pasta fettuccine",
+    "calories": 365,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1225,10 +1225,10 @@
       "$oid": "5d51694802b2373622ff56ba"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pasta fusilli",
-    "calorías": 375,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pasta fusilli",
+    "calories": 375,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1236,10 +1236,10 @@
       "$oid": "5d51694802b2373622ff56c6"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pasta spaghetti",
-    "calorías": 360,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pasta spaghetti",
+    "calories": 360,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1247,10 +1247,10 @@
       "$oid": "5d51694802b2373622ff56ca"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pasta macaroni",
-    "calorías": 360,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pasta macaroni",
+    "calories": 360,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1258,10 +1258,10 @@
       "$oid": "5d51694802b2373622ff56d0"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pasta linguine",
-    "calorías": 370,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pasta linguine",
+    "calories": 370,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1269,10 +1269,10 @@
       "$oid": "5d51694802b2373622ff56d3"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pasta rigatoni",
-    "calorías": 358,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pasta rigatoni",
+    "calories": 358,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1280,10 +1280,10 @@
       "$oid": "5d51694902b2373622ff57d1"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Stilton",
-    "calorías": 353,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Stilton",
+    "calories": 353,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -1291,10 +1291,10 @@
       "$oid": "5d51694902b2373622ff5842"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Bagel",
-    "calorías": 339,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Bagel",
+    "calories": 339,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1302,10 +1302,10 @@
       "$oid": "5d51694802b2373622ff555f"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Alforfón Mistral sin moler",
-    "calorías": 353,
-    "gruposSanguíneosNoPermitidos": [null, true, false, true, true],
+    "weight": 100,
+    "title": "Alforfón Mistral sin moler",
+    "calories": 353,
+    "groupBloodNotAllowed": [true, false, true, true],
     "__v": 0
   },
   {
@@ -1313,10 +1313,10 @@
       "$oid": "5d51694802b2373622ff5553"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Alforfón Yelli con setas porcini",
-    "calorías": 290,
-    "gruposSanguíneosNoPermitidos": [null, true, false, true, true],
+    "weight": 100,
+    "title": "Alforfón Yelli con setas porcini",
+    "calories": 290,
+    "groupBloodNotAllowed": [true, false, true, true],
     "__v": 0
   },
   {
@@ -1324,10 +1324,10 @@
       "$oid": "5d51694902b2373622ff5879"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pizza Ristorante Hawaii",
-    "calorías": 215,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pizza Ristorante Hawaii",
+    "calories": 215,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1335,10 +1335,10 @@
       "$oid": "5d51694902b2373622ff59b1"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Pechuga de pollo",
-    "calorías": 113,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Pechuga de pollo",
+    "calories": 113,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -1346,10 +1346,10 @@
       "$oid": "5d51694902b2373622ff59ba"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Corazón de pollo",
-    "calorías": 159,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Corazón de pollo",
+    "calories": 159,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -1357,10 +1357,10 @@
       "$oid": "5d51694802b2373622ff56c1"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Harina de cedro",
-    "calorías": 432,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Harina de cedro",
+    "calories": 432,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1368,10 +1368,10 @@
       "$oid": "5d51694902b2373622ff5700"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Dumplings",
-    "calorías": 275,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Dumplings",
+    "calories": 275,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1379,10 +1379,10 @@
       "$oid": "5d51694902b2373622ff575c"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Bavaria Blue",
-    "calorías": 450,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Bavaria Blue",
+    "calories": 450,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -1390,10 +1390,10 @@
       "$oid": "5d51694902b2373622ff5892"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Picatostes de centeno",
-    "calorías": 336,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Picatostes de centeno",
+    "calories": 336,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1401,10 +1401,10 @@
       "$oid": "5d51694902b2373622ff58bf"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pan Figura Ideal",
-    "calorías": 273,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pan Figura Ideal",
+    "calories": 273,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1412,10 +1412,10 @@
       "$oid": "5d51694902b2373622ff5987"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Pechuga de pavo Indilight",
-    "calorías": 130,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Pechuga de pavo Indilight",
+    "calories": 130,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -1423,10 +1423,10 @@
       "$oid": "5d51694802b2373622ff5647"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Teff",
-    "calorías": 367,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Teff",
+    "calories": 367,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1434,10 +1434,10 @@
       "$oid": "5d51694802b2373622ff554a"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Guisantes Makfa triturados en bolsas",
-    "calorías": 299,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Guisantes Makfa triturados en bolsas",
+    "calories": 299,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1445,10 +1445,10 @@
       "$oid": "5d51694802b2373622ff5532"
     },
     "categories": "huevos",
-    "peso": 100,
-    "título": "Huevo en polvo",
-    "calorías": 542,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Huevo en polvo",
+    "calories": 542,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1456,10 +1456,10 @@
       "$oid": "5d51694802b2373622ff554b"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Guisantes Makfa partidos",
-    "calorías": 299,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Guisantes Makfa partidos",
+    "calories": 299,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1467,10 +1467,10 @@
       "$oid": "5d51694802b2373622ff553f"
     },
     "categories": "huevos",
-    "peso": 100,
-    "título": "Huevo de codorniz",
-    "calorías": 168,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Huevo de codorniz",
+    "calories": 168,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1478,10 +1478,10 @@
       "$oid": "5d51694802b2373622ff5550"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Guisantes Passim picados",
-    "calorías": 299,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Guisantes Passim picados",
+    "calories": 299,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1489,10 +1489,10 @@
       "$oid": "5d51694902b2373622ff59b4"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Pechuga de pollo al vapor",
-    "calorías": 113,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Pechuga de pollo al vapor",
+    "calories": 113,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -1500,10 +1500,10 @@
       "$oid": "5d51694902b2373622ff59c6"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Muslos de pollo marinados",
-    "calorías": 200,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Muslos de pollo marinados",
+    "calories": 200,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -1511,10 +1511,10 @@
       "$oid": "5d51694802b2373622ff56c5"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Harina de coco",
-    "calorías": 446,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Harina de coco",
+    "calories": 446,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1522,10 +1522,10 @@
       "$oid": "5d51694902b2373622ff5713"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Espaguetis Myllyn Paras",
-    "calorías": 344,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Espaguetis Myllyn Paras",
+    "calories": 344,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1533,10 +1533,10 @@
       "$oid": "5d51694902b2373622ff578a"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Karat chocolate fundido",
-    "calorías": 311,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Karat chocolate fundido",
+    "calories": 311,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -1544,10 +1544,10 @@
       "$oid": "5d51694902b2373622ff583c"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Requesón Miracle kiwi-plátano",
-    "calorías": 123,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Requesón Miracle kiwi-plátano",
+    "calories": 123,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -1555,10 +1555,10 @@
       "$oid": "5d51694902b2373622ff583f"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Requesón Chudo melocotón-pera",
-    "calorías": 131,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Requesón Chudo melocotón-pera",
+    "calories": 131,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -1566,10 +1566,10 @@
       "$oid": "5d51694902b2373622ff58d8"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pan ucraniano",
-    "calorías": 198,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pan ucraniano",
+    "calories": 198,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1577,10 +1577,10 @@
       "$oid": "5d51694802b2373622ff5569"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Copos de alforfón Passim",
-    "calorías": 322,
-    "gruposSanguíneosNoPermitidos": [null, true, false, true, true],
+    "weight": 100,
+    "title": "Copos de alforfón Passim",
+    "calories": 322,
+    "groupBloodNotAllowed": [true, false, true, true],
     "__v": 0
   },
   {
@@ -1588,10 +1588,10 @@
       "$oid": "5d51694802b2373622ff55d9"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Especiado",
-    "calorías": 337,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Especiado",
+    "calories": 337,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1599,10 +1599,10 @@
       "$oid": "5d51694802b2373622ff55dc"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Trigo germinado",
-    "calorías": 198,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Trigo germinado",
+    "calories": 198,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1610,10 +1610,10 @@
       "$oid": "5d51694802b2373622ff55c5"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Copos de avena Hercules Makfa tradicionales",
-    "calorías": 350,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Copos de avena Hercules Makfa tradicionales",
+    "calories": 350,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1621,10 +1621,10 @@
       "$oid": "5d51694802b2373622ff55b2"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Salvado de avena dias limpieza",
-    "calorías": 129,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Salvado de avena dias limpieza",
+    "calories": 129,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1632,10 +1632,10 @@
       "$oid": "5d51694902b2373622ff587d"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pizza Ristorante Piccola Salame",
-    "calorías": 264,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pizza Ristorante Piccola Salame",
+    "calories": 264,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1643,10 +1643,10 @@
       "$oid": "5d51694902b2373622ff58e7"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Crispbread Dr.Korner Cóctel de cereales con miel",
-    "calorías": 320,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Crispbread Dr.Korner Cóctel de cereales con miel",
+    "calories": 320,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1654,10 +1654,10 @@
       "$oid": "5d51694902b2373622ff5902"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Crispbread de arroz",
-    "calorías": 310,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Crispbread de arroz",
+    "calories": 310,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1665,10 +1665,10 @@
       "$oid": "5d51694902b2373622ff5916"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Riñones de cordero",
-    "calorías": 77,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Riñones de cordero",
+    "calories": 77,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -1676,10 +1676,10 @@
       "$oid": "5d51694902b2373622ff5995"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Carne de caballo",
-    "calorías": 187,
-    "gruposSanguíneosNoPermitidos": [null, false, true, false, true],
+    "weight": 100,
+    "title": "Carne de caballo",
+    "calories": 187,
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -1687,10 +1687,10 @@
       "$oid": "5d51694802b2373622ff5612"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Arroz salvaje cocido",
-    "calorías": 100,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Arroz salvaje cocido",
+    "calories": 100,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1698,10 +1698,10 @@
       "$oid": "5d51694902b2373622ff5966"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Hígado de ganso",
-    "calorías": 412,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Hígado de ganso",
+    "calories": 412,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -1709,10 +1709,10 @@
       "$oid": "5d51694902b2373622ff5751"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Amber",
-    "calorías": 220,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Amber",
+    "calories": 220,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -1720,10 +1720,10 @@
       "$oid": "5d51694902b2373622ff57b6"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso verde pesto",
-    "calorías": 380,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso verde pesto",
+    "calories": 380,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -1731,10 +1731,10 @@
       "$oid": "5d51694902b2373622ff57e0"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Uglichsky",
-    "calorías": 347,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Uglichsky",
+    "calories": 347,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -1742,10 +1742,10 @@
       "$oid": "5d51694902b2373622ff5982"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Carne de pavo Indilight picada",
-    "calorías": 280,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Carne de pavo Indilight picada",
+    "calories": 280,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -1753,10 +1753,10 @@
       "$oid": "5d51694902b2373622ff59dc"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Carne de corzo",
-    "calorías": 138,
-    "gruposSanguíneosNoPermitidos": [null, false, true, false, true],
+    "weight": 100,
+    "title": "Carne de corzo",
+    "calories": 138,
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -1764,10 +1764,10 @@
       "$oid": "5d51694802b2373622ff5559"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Gachas de alforfón con mantequilla",
-    "calorías": 132,
-    "gruposSanguíneosNoPermitidos": [null, true, false, true, true],
+    "weight": 100,
+    "title": "Gachas de alforfón con mantequilla",
+    "calories": 132,
+    "groupBloodNotAllowed": [true, false, true, true],
     "__v": 0
   },
   {
@@ -1775,10 +1775,10 @@
       "$oid": "5d51694802b2373622ff5551"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Guisantes Uvelka picados",
-    "calorías": 360,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Guisantes Uvelka picados",
+    "calories": 360,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1786,10 +1786,10 @@
       "$oid": "5d51694802b2373622ff5556"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Gachas de alforfón viscosas en agua",
-    "calorías": 90,
-    "gruposSanguíneosNoPermitidos": [null, true, false, true, true],
+    "weight": 100,
+    "title": "Gachas de alforfón viscosas en agua",
+    "calories": 90,
+    "groupBloodNotAllowed": [true, false, true, true],
     "__v": 0
   },
   {
@@ -1797,10 +1797,10 @@
       "$oid": "5d51694802b2373622ff553c"
     },
     "categories": "huevos",
-    "peso": 100,
-    "título": "Huevo de gallina (yema)",
-    "calorías": 352,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Huevo de gallina (yema)",
+    "calories": 352,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1808,10 +1808,10 @@
       "$oid": "5d51694802b2373622ff5587"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Muesli Matti Banana y Chocolate",
-    "calorías": 390,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Muesli Matti Banana y Chocolate",
+    "calories": 390,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1819,10 +1819,10 @@
       "$oid": "5d51694802b2373622ff55a2"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Avena Myllyn Paras con arándanos y azúcar",
-    "calorías": 362,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Avena Myllyn Paras con arándanos y azúcar",
+    "calories": 362,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1830,10 +1830,10 @@
       "$oid": "5d51694802b2373622ff55d3"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Gachas de cebada con agua",
-    "calorías": 109,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Gachas de cebada con agua",
+    "calories": 109,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1841,10 +1841,10 @@
       "$oid": "5d51694802b2373622ff5599"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Avena Myllyn Paras con arándanos sin azúcar",
-    "calorías": 353,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Avena Myllyn Paras con arándanos sin azúcar",
+    "calories": 353,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -1852,10 +1852,10 @@
       "$oid": "5d51694902b2373622ff578b"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso procesado Karat Yantar",
-    "calorías": 297,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso procesado Karat Yantar",
+    "calories": 297,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -1863,10 +1863,10 @@
       "$oid": "5d51694802b2373622ff5695"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Fideos Doshirak con sabor a pollo",
-    "calorías": 460,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Fideos Doshirak con sabor a pollo",
+    "calories": 460,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1874,10 +1874,10 @@
       "$oid": "5d51694802b2373622ff5696"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Fideos ramen",
-    "calorías": 337,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Fideos ramen",
+    "calories": 337,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1885,10 +1885,10 @@
       "$oid": "5d51694902b2373622ff57fd"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso glaseado con relleno",
-    "calorías": 374,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso glaseado con relleno",
+    "calories": 374,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -1896,10 +1896,10 @@
       "$oid": "5d51694902b2373622ff58a5"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pan Boyarsky",
-    "calorías": 232,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pan Boyarsky",
+    "calories": 232,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -1907,10 +1907,10 @@
       "$oid": "5d51694902b2373622ff5998"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Carne de caballo estofada",
-    "calorías": 214,
-    "gruposSanguíneosNoPermitidos": [null, false, true, false, true],
+    "weight": 100,
+    "title": "Carne de caballo estofada",
+    "calories": 214,
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -1918,10 +1918,10 @@
       "$oid": "5d51694902b2373622ff57e9"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Chechil",
-    "calorías": 313,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Chechil",
+    "calories": 313,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -1929,10 +1929,10 @@
       "$oid": "5d51694902b2373622ff591f"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Estofado de pollo a la Stroganoff",
-    "calorías": 163,
-    "gruposSanguíneosNoPermitidos": [null, false, true, false, true],
+    "weight": 100,
+    "title": "Estofado de pollo a la Stroganoff",
+    "calories": 163,
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -1940,10 +1940,10 @@
       "$oid": "5d51694902b2373622ff572e"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Hochland Bleu",
-    "calorías": 415,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Hochland Bleu",
+    "calories": 415,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -1951,10 +1951,10 @@
       "$oid": "5d51694902b2373622ff579a"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso crema Lambert",
-    "calorías": 395,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso crema Lambert",
+    "calories": 395,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -1962,10 +1962,10 @@
       "$oid": "5d51694902b2373622ff57da"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso de tofu",
-    "calorías": 73,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso de tofu",
+    "calories": 73,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -1973,10 +1973,10 @@
       "$oid": "5d51694902b2373622ff590b"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Entrecot de ternera",
-    "calorías": 220,
-    "gruposSanguíneosNoPermitidos": [null, false, true, false, true],
+    "weight": 100,
+    "title": "Entrecot de ternera",
+    "calories": 220,
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -1984,10 +1984,10 @@
       "$oid": "5d51694902b2373622ff596c"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Carne de serpiente",
-    "calorías": 93,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Carne de serpiente",
+    "calories": 93,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -1995,10 +1995,10 @@
       "$oid": "5d51694802b2373622ff5686"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Fideos de arroz negro SanBonsai",
-    "calorías": 349,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Fideos de arroz negro SanBonsai",
+    "calories": 349,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2006,10 +2006,10 @@
       "$oid": "5d51694902b2373622ff5824"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso cottage Milava sin grasa",
-    "calorías": 75,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso cottage Milava sin grasa",
+    "calories": 75,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2017,10 +2017,10 @@
       "$oid": "5d51694802b2373622ff566c"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Sémola de cebada",
-    "calorías": 324,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Sémola de cebada",
+    "calories": 324,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -2028,10 +2028,10 @@
       "$oid": "5d51694802b2373622ff567f"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Vareniki de Ilyina con papas",
-    "calorías": 125,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Vareniki de Ilyina con papas",
+    "calories": 125,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2039,10 +2039,10 @@
       "$oid": "5d51694902b2373622ff59f1"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Cerdo de leche",
-    "calorías": 109,
-    "gruposSanguíneosNoPermitidos": [null, false, true, false, true],
+    "weight": 100,
+    "title": "Cerdo de leche",
+    "calories": 109,
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -2050,10 +2050,10 @@
       "$oid": "5d51694802b2373622ff55f9"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Arroz 4 estaciones para freír",
-    "calorías": 110,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Arroz 4 estaciones para freír",
+    "calories": 110,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -2061,10 +2061,10 @@
       "$oid": "5d51694902b2373622ff5a1a"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Costillas de cerdo Samson",
-    "calorías": 265,
-    "gruposSanguíneosNoPermitidos": [null, false, true, false, true],
+    "weight": 100,
+    "title": "Costillas de cerdo Samson",
+    "calories": 265,
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -2072,10 +2072,10 @@
       "$oid": "5d51694802b2373622ff56e5"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Harina integral S. Pudov",
-    "calorías": 380,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Harina integral S. Pudov",
+    "calories": 380,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2083,10 +2083,10 @@
       "$oid": "5d51694902b2373622ff5857"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Panecillos para hot dog",
-    "calorías": 339,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Panecillos para hot dog",
+    "calories": 339,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2094,10 +2094,10 @@
       "$oid": "5d51694902b2373622ff58bd"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pan de calabaza con salvado tipo gofre Elizabeth",
-    "calorías": 358,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pan de calabaza con salvado tipo gofre Elizabeth",
+    "calories": 358,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2105,10 +2105,10 @@
       "$oid": "5d51694902b2373622ff594c"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Ubres de res",
-    "calorías": 173,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Ubres de res",
+    "calories": 173,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -2116,10 +2116,10 @@
       "$oid": "5d51694802b2373622ff56b2"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Mafaldin",
-    "calorías": 350,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Mafaldin",
+    "calories": 350,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2127,10 +2127,10 @@
       "$oid": "5d51694802b2373622ff56f4"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Harina de soja desgrasada",
-    "calorías": 291,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Harina de soja desgrasada",
+    "calories": 291,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2138,10 +2138,10 @@
       "$oid": "5d51694902b2373622ff5718"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Espiral Myllyn Paras",
-    "calorías": 344,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Espiral Myllyn Paras",
+    "calories": 344,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2149,10 +2149,10 @@
       "$oid": "5d51694902b2373622ff57d9"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Tilsiter",
-    "calorías": 334,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Tilsiter",
+    "calories": 334,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2160,10 +2160,10 @@
       "$oid": "5d51694902b2373622ff5918"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Paletilla de cordero",
-    "calorías": 284,
-    "gruposSanguíneosNoPermitidos": [null, false, true, false, true],
+    "weight": 100,
+    "title": "Paletilla de cordero",
+    "calories": 284,
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -2171,10 +2171,10 @@
       "$oid": "5d51694802b2373622ff5602"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Arroz integral Agro-Alliance Slim&Fit",
-    "calorías": 380,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Arroz integral Agro-Alliance Slim&Fit",
+    "calories": 380,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -2182,10 +2182,10 @@
       "$oid": "5d51694802b2373622ff563b"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Copos de arroz Myllyn Paras para gachas",
-    "calorías": 360,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Copos de arroz Myllyn Paras para gachas",
+    "calories": 360,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -2193,10 +2193,10 @@
       "$oid": "5d51694902b2373622ff57d7"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso de cuajo",
-    "calorías": 305,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso de cuajo",
+    "calories": 305,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2204,10 +2204,10 @@
       "$oid": "5d51694902b2373622ff58af"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pan moldeado Darnitsky",
-    "calorías": 210,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pan moldeado Darnitsky",
+    "calories": 210,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2215,10 +2215,10 @@
       "$oid": "5d51694902b2373622ff5968"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Ganso hervido",
-    "calorías": 447,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Ganso hervido",
+    "calories": 447,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -2226,10 +2226,10 @@
       "$oid": "5d51694802b2373622ff5670"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Panqueques Ermolino con hígado de mamá",
-    "calorías": 299,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Panqueques Ermolino con hígado de mamá",
+    "calories": 299,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2237,10 +2237,10 @@
       "$oid": "5d51694902b2373622ff570a"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Mezcla de harina sin gluten Garnets para pan blanco",
-    "calorías": 330,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Mezcla de harina sin gluten Garnets para pan blanco",
+    "calories": 330,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2248,10 +2248,10 @@
       "$oid": "5d51694902b2373622ff570f"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Mezcla de harina sin gluten Garnets para pastel de chocolate",
-    "calorías": 350,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Mezcla de harina sin gluten Garnets para pastel de chocolate",
+    "calories": 350,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2259,10 +2259,10 @@
       "$oid": "5d51694902b2373622ff5788"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso procesado Karat con champiñones para sopa",
-    "calorías": 304,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso procesado Karat con champiñones para sopa",
+    "calories": 304,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2270,10 +2270,10 @@
       "$oid": "5d51694902b2373622ff57d6"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Syrobogatov Pribaltiyskiy 9%",
-    "calorías": 190,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Syrobogatov Pribaltiyskiy 9%",
+    "calories": 190,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2281,10 +2281,10 @@
       "$oid": "5d51694902b2373622ff57f4"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Panqueque de queso cottage",
-    "calorías": 183,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Panqueque de queso cottage",
+    "calories": 183,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2292,10 +2292,10 @@
       "$oid": "5d51694902b2373622ff580e"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso cottage Danone 0% suave",
-    "calorías": 61,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso cottage Danone 0% suave",
+    "calories": 61,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2303,10 +2303,10 @@
       "$oid": "5d51694902b2373622ff5878"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pizza Ristorante Funghi",
-    "calorías": 235,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pizza Ristorante Funghi",
+    "calories": 235,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2314,10 +2314,10 @@
       "$oid": "5d51694902b2373622ff5951"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Cerebros de res",
-    "calorías": 124,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Cerebros de res",
+    "calories": 124,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -2325,10 +2325,10 @@
       "$oid": "5d51694802b2373622ff5680"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Vareniki de Ilyina con fresas",
-    "calorías": 205,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Vareniki de Ilyina con fresas",
+    "calories": 205,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2336,10 +2336,10 @@
       "$oid": "5d51694902b2373622ff59ef"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Paté de hígado de res clásico",
-    "calorías": 217,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Paté de hígado de res clásico",
+    "calories": 217,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -2347,10 +2347,10 @@
       "$oid": "5d51694802b2373622ff569f"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Láminas de lasaña Barilla",
-    "calorías": 350,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Láminas de lasaña Barilla",
+    "calories": 350,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2358,10 +2358,10 @@
       "$oid": "5d51694902b2373622ff57c7"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso azul",
-    "calorías": 363,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso azul",
+    "calories": 363,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2369,10 +2369,10 @@
       "$oid": "5d51694902b2373622ff57e7"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Chanakh",
-    "calorías": 285,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Chanakh",
+    "calories": 285,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2380,10 +2380,10 @@
       "$oid": "5d51694902b2373622ff5950"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Pulmones de res estofados",
-    "calorías": 120,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Pulmones de res estofados",
+    "calories": 120,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -2391,10 +2391,10 @@
       "$oid": "5d51694802b2373622ff5632"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Arroz de grano redondo Uvelka",
-    "calorías": 330,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Arroz de grano redondo Uvelka",
+    "calories": 330,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -2402,10 +2402,10 @@
       "$oid": "5d51694802b2373622ff56f0"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Harina de arroz dietética",
-    "calorías": 371,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Harina de arroz dietética",
+    "calories": 371,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2413,10 +2413,10 @@
       "$oid": "5d51694902b2373622ff582e"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso cottage Prostokvashino 5% grumoso con arándanos",
-    "calorías": 127,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso cottage Prostokvashino 5% grumoso con arándanos",
+    "calories": 127,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2424,10 +2424,10 @@
       "$oid": "5d51694902b2373622ff58ff"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pan crujiente Croisette de centeno y trigo con queso",
-    "calorías": 428,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pan crujiente Croisette de centeno y trigo con queso",
+    "calories": 428,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2435,10 +2435,10 @@
       "$oid": "5d51694802b2373622ff5687"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Fideos de soya para estrogonof de res",
-    "calorías": 254,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Fideos de soya para estrogonof de res",
+    "calories": 254,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2446,10 +2446,10 @@
       "$oid": "5d51694902b2373622ff5743"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Unagrande Crema de queso №1",
-    "calorías": 255,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Unagrande Crema de queso №1",
+    "calories": 255,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2457,10 +2457,10 @@
       "$oid": "5d51694902b2373622ff577d"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Ichalki Dietético 27%",
-    "calorías": 164,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Ichalki Dietético 27%",
+    "calories": 164,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2468,10 +2468,10 @@
       "$oid": "5d51694902b2373622ff58d5"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pan de mesa",
-    "calorías": 214,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pan de mesa",
+    "calories": 214,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2479,10 +2479,10 @@
       "$oid": "5d51694902b2373622ff5971"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Pavo (alas)",
-    "calorías": 168,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Pavo (alas)",
+    "calories": 168,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -2490,10 +2490,10 @@
       "$oid": "5d51694802b2373622ff56c9"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Harina de maíz fina S. Pudov",
-    "calorías": 330,
-    "gruposSanguíneosNoPermitidos": [null, true, false, true, true],
+    "weight": 100,
+    "title": "Harina de maíz fina S. Pudov",
+    "calories": 330,
+    "groupBloodNotAllowed": [true, false, true, true],
     "__v": 0
   },
   {
@@ -2501,10 +2501,10 @@
       "$oid": "5d51694802b2373622ff56e9"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Harina de centeno pelada",
-    "calorías": 325,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Harina de centeno pelada",
+    "calories": 325,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2512,10 +2512,10 @@
       "$oid": "5d51694902b2373622ff5736"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso cottage Hochland con hierbas",
-    "calorías": 212,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso cottage Hochland con hierbas",
+    "calories": 212,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2523,10 +2523,10 @@
       "$oid": "5d51694902b2373622ff575d"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Biyskiy",
-    "calorías": 371,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Biyskiy",
+    "calories": 371,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2534,10 +2534,10 @@
       "$oid": "5d51694902b2373622ff581f"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso cottage Izbenka (Vkusvill) 1% desmenuzado",
-    "calorías": 89,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso cottage Izbenka (Vkusvill) 1% desmenuzado",
+    "calories": 89,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2545,10 +2545,10 @@
       "$oid": "5d51694902b2373622ff5887"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Donut",
-    "calorías": 296,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Donut",
+    "calories": 296,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2556,10 +2556,10 @@
       "$oid": "5d51694902b2373622ff589d"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pan de 8 cereales",
-    "calorías": 269,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pan de 8 cereales",
+    "calories": 269,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2567,10 +2567,10 @@
       "$oid": "5d51694902b2373622ff5981"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Pavo Indilight filete de pechuga",
-    "calorías": 100,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Pavo Indilight filete de pechuga",
+    "calories": 100,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -2578,10 +2578,10 @@
       "$oid": "5d51694902b2373622ff5a27"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Hombro de ternera",
-    "calorías": 106,
-    "gruposSanguíneosNoPermitidos": [null, false, true, false, true],
+    "weight": 100,
+    "title": "Hombro de ternera",
+    "calories": 106,
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -2589,10 +2589,10 @@
       "$oid": "5d51694902b2373622ff59fa"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Hombro de cerdo",
-    "calorías": 257,
-    "gruposSanguíneosNoPermitidos": [null, false, true, false, true],
+    "weight": 100,
+    "title": "Hombro de cerdo",
+    "calories": 257,
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -2600,10 +2600,10 @@
       "$oid": "5d51694802b2373622ff5642"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Mezcla de arroz parboiled y arroz silvestre Uvelka",
-    "calorías": 350,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Mezcla de arroz parboiled y arroz silvestre Uvelka",
+    "calories": 350,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -2611,10 +2611,10 @@
       "$oid": "5d51694902b2373622ff5710"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Mezcla de harina sin gluten Garnets Tarta de manzana",
-    "calorías": 330,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Mezcla de harina sin gluten Garnets Tarta de manzana",
+    "calories": 330,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2622,10 +2622,10 @@
       "$oid": "5d51694902b2373622ff58a4"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pan Borodinsky",
-    "calorías": 208,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pan Borodinsky",
+    "calories": 208,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2633,10 +2633,10 @@
       "$oid": "5d51694902b2373622ff58b7"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pan Elizabeth gofre de maíz",
-    "calorías": 368,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pan Elizabeth gofre de maíz",
+    "calories": 368,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2644,10 +2644,10 @@
       "$oid": "5d51694902b2373622ff58c6"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pan del mercader",
-    "calorías": 196,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pan del mercader",
+    "calories": 196,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2655,10 +2655,10 @@
       "$oid": "5d51694802b2373622ff562c"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Arroz sin pulir cocido",
-    "calorías": 125,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Arroz sin pulir cocido",
+    "calories": 125,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -2666,10 +2666,10 @@
       "$oid": "5d51694902b2373622ff5737"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso cottage Hochland crema",
-    "calorías": 245,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso cottage Hochland crema",
+    "calories": 245,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2677,10 +2677,10 @@
       "$oid": "5d51694902b2373622ff583e"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso cottage Chudo fresa-frutilla",
-    "calorías": 131,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso cottage Chudo fresa-frutilla",
+    "calories": 131,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2688,10 +2688,10 @@
       "$oid": "5d51694902b2373622ff58ba"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pan Elizabeth gofre con cebolla",
-    "calorías": 365,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pan Elizabeth gofre con cebolla",
+    "calories": 365,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2699,10 +2699,10 @@
       "$oid": "5d51694802b2373622ff5635"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Gachas de arroz con agua",
-    "calorías": 78,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Gachas de arroz con agua",
+    "calories": 78,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -2710,10 +2710,10 @@
       "$oid": "5d51694902b2373622ff58f6"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pan Italiano Baker House con romero y ajo",
-    "calorías": 250,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pan Italiano Baker House con romero y ajo",
+    "calories": 250,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2721,10 +2721,10 @@
       "$oid": "5d51694802b2373622ff56b5"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Harina de maní",
-    "calorías": 590,
-    "gruposSanguíneosNoPermitidos": [null, true, false, true, false],
+    "weight": 100,
+    "title": "Harina de maní",
+    "calories": 590,
+    "groupBloodNotAllowed": [true, false, true, false],
     "__v": 0
   },
   {
@@ -2732,10 +2732,10 @@
       "$oid": "5d51694902b2373622ff5746"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Viola con jamón",
-    "calorías": 305,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Viola con jamón",
+    "calories": 305,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2743,10 +2743,10 @@
       "$oid": "5d51694902b2373622ff574a"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso crema Viola",
-    "calorías": 305,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso crema Viola",
+    "calories": 305,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2754,10 +2754,10 @@
       "$oid": "5d51694902b2373622ff5793"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso ahumado",
-    "calorías": 380,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso ahumado",
+    "calories": 380,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2765,10 +2765,10 @@
       "$oid": "5d51694902b2373622ff570b"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Mezcla de harina sin gluten Garnets Tarta de Coco",
-    "calorías": 400,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Mezcla de harina sin gluten Garnets Tarta de Coco",
+    "calories": 400,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2776,10 +2776,10 @@
       "$oid": "5d51694902b2373622ff57b2"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso paneer",
-    "calorías": 274,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso paneer",
+    "calories": 274,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2787,10 +2787,10 @@
       "$oid": "5d51694902b2373622ff5972"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Pavo (piernas)",
-    "calorías": 142,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Pavo (piernas)",
+    "calories": 142,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -2798,10 +2798,10 @@
       "$oid": "5d51694902b2373622ff59a3"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Filetes de pollo (listos para comer)",
-    "calorías": 222,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Filetes de pollo (listos para comer)",
+    "calories": 222,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -2809,10 +2809,10 @@
       "$oid": "5d51694802b2373622ff5624"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Arroz rojo sin pulir",
-    "calorías": 362,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Arroz rojo sin pulir",
+    "calories": 362,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -2820,10 +2820,10 @@
       "$oid": "5d51694802b2373622ff5683"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Vareniki Khvalynsky con papas y champiñones",
-    "calorías": 184,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Vareniki Khvalynsky con papas y champiñones",
+    "calories": 184,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2831,10 +2831,10 @@
       "$oid": "5d51694902b2373622ff577c"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Izbenka (VkusVill) Megard duro",
-    "calorías": 371,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Izbenka (VkusVill) Megard duro",
+    "calories": 371,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2842,10 +2842,10 @@
       "$oid": "5d51694902b2373622ff5967"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Ganso",
-    "calorías": 412,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Ganso",
+    "calories": 412,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -2853,10 +2853,10 @@
       "$oid": "5d51694902b2373622ff596f"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Pavo (mollejas)",
-    "calorías": 143,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Pavo (mollejas)",
+    "calories": 143,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -2864,10 +2864,10 @@
       "$oid": "5d51694802b2373622ff56ab"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Macarrones cocidos con grasa",
-    "calorías": 135,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Macarrones cocidos con grasa",
+    "calories": 135,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2875,10 +2875,10 @@
       "$oid": "5d51694802b2373622ff56cc"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Harina de linaza Garnets",
-    "calorías": 305,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Harina de linaza Garnets",
+    "calories": 305,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -2886,10 +2886,10 @@
       "$oid": "5d51694902b2373622ff5712"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Espaguetis Buitoni Spaghetti Lunghi",
-    "calorías": 350,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Espaguetis Buitoni Spaghetti Lunghi",
+    "calories": 350,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2897,10 +2897,10 @@
       "$oid": "5d51694902b2373622ff57d5"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Syrobogatov light 25%",
-    "calorías": 254,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Syrobogatov light 25%",
+    "calories": 254,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2908,10 +2908,10 @@
       "$oid": "5d51694902b2373622ff5924"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "búfalo",
-    "calorías": 194,
-    "gruposSanguíneosNoPermitidos": [null, false, true, false, true],
+    "weight": 100,
+    "title": "búfalo",
+    "calories": 194,
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -2919,10 +2919,10 @@
       "$oid": "5d51694902b2373622ff5747"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Viola con chantarelas",
-    "calorías": 305,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Viola con chantarelas",
+    "calories": 305,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2930,10 +2930,10 @@
       "$oid": "5d51694902b2373622ff57a5"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso mexicano",
-    "calorías": 282,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso mexicano",
+    "calories": 282,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2941,10 +2941,10 @@
       "$oid": "5d51694902b2373622ff584e"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Rosquilla Fair",
-    "calorías": 330,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Rosquilla Fair",
+    "calories": 330,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2952,10 +2952,10 @@
       "$oid": "5d51694902b2373622ff5915"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "corazón de cordero",
-    "calorías": 82,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "corazón de cordero",
+    "calories": 82,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -2963,10 +2963,10 @@
       "$oid": "5d51694802b2373622ff5649"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Avena de alforfón Tu salud de granos estofados",
-    "calorías": 308,
-    "gruposSanguíneosNoPermitidos": [null, true, false, true, true],
+    "weight": 100,
+    "title": "Avena de alforfón Tu salud de granos estofados",
+    "calories": 308,
+    "groupBloodNotAllowed": [true, false, true, true],
     "__v": 0
   },
   {
@@ -2974,10 +2974,10 @@
       "$oid": "5d51694902b2373622ff576b"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Gouda Kez cheese factory",
-    "calorías": 294,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Gouda Kez cheese factory",
+    "calories": 294,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -2985,10 +2985,10 @@
       "$oid": "5d51694902b2373622ff58ab"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pan Hércules con salvado",
-    "calorías": 279,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pan Hércules con salvado",
+    "calories": 279,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -2996,10 +2996,10 @@
       "$oid": "5d51694902b2373622ff56fd"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Tortitas con cerezas",
-    "calorías": 294,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Tortitas con cerezas",
+    "calories": 294,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -3007,10 +3007,10 @@
       "$oid": "5d51694902b2373622ff579c"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Casket con fenogreco",
-    "calorías": 376,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Casket con fenogreco",
+    "calories": 376,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -3018,10 +3018,10 @@
       "$oid": "5d51694902b2373622ff5891"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Trozos de pan blanco",
-    "calorías": 331,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Trozos de pan blanco",
+    "calories": 331,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -3029,10 +3029,10 @@
       "$oid": "5d51694802b2373622ff561f"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Arroz Zhmenka Sushi",
-    "calorías": 347,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Arroz Zhmenka Sushi",
+    "calories": 347,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -3040,10 +3040,10 @@
       "$oid": "5d51694902b2373622ff591c"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Tocino Miratorg Amateur",
-    "calorías": 360,
-    "gruposSanguíneosNoPermitidos": [null, false, true, false, true],
+    "weight": 100,
+    "title": "Tocino Miratorg Amateur",
+    "calories": 360,
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -3051,10 +3051,10 @@
       "$oid": "5d51694902b2373622ff59d8"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Langet",
-    "calorías": 167,
-    "gruposSanguíneosNoPermitidos": [null, false, true, false, true],
+    "weight": 100,
+    "title": "Langet",
+    "calories": 167,
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -3062,10 +3062,10 @@
       "$oid": "5d51694902b2373622ff56f9"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Harina de lentejas",
-    "calorías": 321,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Harina de lentejas",
+    "calories": 321,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -3073,10 +3073,10 @@
       "$oid": "5d51694902b2373622ff5859"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Tarta de queso con relleno de requesón",
-    "calorías": 331,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Tarta de queso con relleno de requesón",
+    "calories": 331,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -3084,10 +3084,10 @@
       "$oid": "5d51694902b2373622ff58f2"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Pan crujiente Fitness de centeno y trigo",
-    "calorías": 299,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Pan crujiente Fitness de centeno y trigo",
+    "calories": 299,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -3095,10 +3095,10 @@
       "$oid": "5d51694902b2373622ff5934"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Jamón tierno Ostankino de jamón de cerdo",
-    "calorías": 166,
-    "gruposSanguíneosNoPermitidos": [null, false, true, false, true],
+    "weight": 100,
+    "title": "Jamón tierno Ostankino de jamón de cerdo",
+    "calories": 166,
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -3106,10 +3106,10 @@
       "$oid": "5d51694902b2373622ff595b"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Pecho de res ahumado y cocido",
-    "calorías": 540,
-    "gruposSanguíneosNoPermitidos": [null, false, true, false, true],
+    "weight": 100,
+    "title": "Pecho de res ahumado y cocido",
+    "calories": 540,
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -3117,10 +3117,10 @@
       "$oid": "5d51694902b2373622ff59f5"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Urogallo",
-    "calorías": 254,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Urogallo",
+    "calories": 254,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -3128,10 +3128,10 @@
       "$oid": "5d51694802b2373622ff560a"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Arroz Agro-Alliance Mezcla de dorado y silvestre",
-    "calorías": 340,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Arroz Agro-Alliance Mezcla de dorado y silvestre",
+    "calories": 340,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -3139,10 +3139,10 @@
       "$oid": "5d51694902b2373622ff570d"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Mezcla de harina sin gluten Garnets Pan gris",
-    "calorías": 330,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Mezcla de harina sin gluten Garnets Pan gris",
+    "calories": 330,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -3150,10 +3150,10 @@
       "$oid": "5d51694902b2373622ff5a04"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Hombro de cerdo Samson frito",
-    "calorías": 230,
-    "gruposSanguíneosNoPermitidos": [null, false, true, false, true],
+    "weight": 100,
+    "title": "Hombro de cerdo Samson frito",
+    "calories": 230,
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -3161,10 +3161,10 @@
       "$oid": "5d51694802b2373622ff5655"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Cereal Nestlé Fitness con chocolate negro",
-    "calorías": 384,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Cereal Nestlé Fitness con chocolate negro",
+    "calories": 384,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -3172,10 +3172,10 @@
       "$oid": "5d51694802b2373622ff5663"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Lentejas Mistral canadienses grandes verdes",
-    "calorías": 328,
-    "gruposSanguíneosNoPermitidos": [null, true, false, true, false],
+    "weight": 100,
+    "title": "Lentejas Mistral canadienses grandes verdes",
+    "calories": 328,
+    "groupBloodNotAllowed": [true, false, true, false],
     "__v": 0
   },
   {
@@ -3183,10 +3183,10 @@
       "$oid": "5d51694902b2373622ff570c"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Mezcla de harina sin gluten Garnets Base de pizza",
-    "calorías": 340,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Mezcla de harina sin gluten Garnets Base de pizza",
+    "calories": 340,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -3194,10 +3194,10 @@
       "$oid": "5d51694902b2373622ff5818"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso cottage Brest-Litovsk 3% Clásico",
-    "calorías": 97,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso cottage Brest-Litovsk 3% Clásico",
+    "calories": 97,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -3205,10 +3205,10 @@
       "$oid": "5d51694802b2373622ff564e"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Judías Agro-Alliance Ojo Negro (Black Eye)",
-    "calorías": 340,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, true],
+    "weight": 100,
+    "title": "Judías Agro-Alliance Ojo Negro (Black Eye)",
+    "calories": 340,
+    "groupBloodNotAllowed": [true, false, false, true],
     "__v": 0
   },
   {
@@ -3216,10 +3216,10 @@
       "$oid": "5d51694902b2373622ff5812"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso cottage Valio 0.3%",
-    "calorías": 65,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso cottage Valio 0.3%",
+    "calories": 65,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -3227,10 +3227,10 @@
       "$oid": "5d51694902b2373622ff586e"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Palyanitsa Ucraniana",
-    "calorías": 246,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Palyanitsa Ucraniana",
+    "calories": 246,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -3238,10 +3238,10 @@
       "$oid": "5d51694902b2373622ff597e"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Mollejas musculares de pavo Indilight",
-    "calorías": 143,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Mollejas musculares de pavo Indilight",
+    "calories": 143,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -3249,10 +3249,10 @@
       "$oid": "5d51694802b2373622ff5606"
     },
     "categories": "cereales",
-    "peso": 100,
-    "título": "Arroz Agro-Alliance Jasmine",
-    "calorías": 340,
-    "gruposSanguíneosNoPermitidos": [null, true, false, false, false],
+    "weight": 100,
+    "title": "Arroz Agro-Alliance Jasmine",
+    "calories": 340,
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -3260,10 +3260,10 @@
       "$oid": "5d51694802b2373622ff569c"
     },
     "categories": "harina",
-    "peso": 100,
-    "título": "Fideos Lagman Shchebekinskiye",
-    "calorías": 350,
-    "gruposSanguíneosNoPermitidos": [null, true, true, true, true],
+    "weight": 100,
+    "title": "Fideos Lagman Shchebekinskiye",
+    "calories": 350,
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -3271,10 +3271,10 @@
       "$oid": "5d51694902b2373622ff5777"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso casero",
-    "calorías": 113,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso casero",
+    "calories": 113,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -3282,10 +3282,10 @@
       "$oid": "5d51694902b2373622ff579f"
     },
     "categories": "lácteos",
-    "peso": 100,
-    "título": "Queso Limburger",
-    "calorías": 327,
-    "gruposSanguíneosNoPermitidos": [null, true, true, false, false],
+    "weight": 100,
+    "title": "Queso Limburger",
+    "calories": 327,
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -3293,10 +3293,10 @@
       "$oid": "5d51694902b2373622ff5940"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Estofado de carne de res Ribbon",
-    "calorías": 213,
-    "gruposSanguíneosNoPermitidos": [null, false, true, false, true],
+    "weight": 100,
+    "title": "Estofado de carne de res Ribbon",
+    "calories": 213,
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -3304,10 +3304,10 @@
       "$oid": "5d51694902b2373622ff59b6"
     },
     "categories": "carne",
-    "peso": 100,
-    "título": "Hígado de pollo",
-    "calorías": 136,
-    "gruposSanguíneosNoPermitidos": [null, false, false, false, false],
+    "weight": 100,
+    "title": "Hígado de pollo",
+    "calories": 136,
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -3318,7 +3318,7 @@
     "weight": 100,
     "title": "Pan Hércules con salvado",
     "calories": 279,
-    "groupBloodNotAllowed": [null, true, true, true, true],
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -3329,7 +3329,7 @@
     "weight": 100,
     "title": "Panqueques con cerezas",
     "calories": 294,
-    "groupBloodNotAllowed": [null, true, true, true, true],
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
 
@@ -3341,7 +3341,7 @@
     "weight": 100,
     "title": "Costillas de ternera",
     "calories": 233,
-    "groupBloodNotAllowed": [null, false, true, false, true],
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -3352,7 +3352,7 @@
     "weight": 100,
     "title": "Arroz Zhmenka de grano redondo",
     "calories": 330,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -3363,7 +3363,7 @@
     "weight": 100,
     "title": "Harina de alforfón Garnets",
     "calories": 334,
-    "groupBloodNotAllowed": [null, true, false, true, true],
+    "groupBloodNotAllowed": [true, false, true, true],
     "__v": 0
   },
   {
@@ -3374,7 +3374,7 @@
     "weight": 100,
     "title": "Requesón 11%",
     "calories": 170,
-    "groupBloodNotAllowed": [null, true, true, false, false],
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -3385,7 +3385,7 @@
     "weight": 100,
     "title": "Costillas de ternera",
     "calories": 233,
-    "groupBloodNotAllowed": [null, false, true, false, true],
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -3396,7 +3396,7 @@
     "weight": 100,
     "title": "Arroz Zhmenka de grano redondo",
     "calories": 330,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -3407,7 +3407,7 @@
     "weight": 100,
     "title": "Harina de alforfón Garnets",
     "calories": 334,
-    "groupBloodNotAllowed": [null, true, false, true, true],
+    "groupBloodNotAllowed": [true, false, true, true],
     "__v": 0
   },
   {
@@ -3418,7 +3418,7 @@
     "weight": 100,
     "title": "Queso cottage 11%",
     "calories": 170,
-    "groupBloodNotAllowed": [null, true, true, false, false],
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
 
@@ -3430,7 +3430,7 @@
     "weight": 100,
     "title": "Pasta Buitoni Lazos tricolores",
     "calories": 347,
-    "groupBloodNotAllowed": [null, true, true, true, true],
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -3441,7 +3441,7 @@
     "weight": 100,
     "title": "Queso Livaro",
     "calories": 340,
-    "groupBloodNotAllowed": [null, true, true, false, false],
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
 
@@ -3453,7 +3453,7 @@
     "weight": 100,
     "title": "Pan con semillas",
     "calories": 302,
-    "groupBloodNotAllowed": [null, true, true, true, true],
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -3464,7 +3464,7 @@
     "weight": 100,
     "title": "Costillas de ternera",
     "calories": 233,
-    "groupBloodNotAllowed": [null, false, true, false, true],
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -3475,7 +3475,7 @@
     "weight": 100,
     "title": "Arroz Zhmenka de grano redondo",
     "calories": 330,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -3486,7 +3486,7 @@
     "weight": 100,
     "title": "Hígado de pollo",
     "calories": 123,
-    "groupBloodNotAllowed": [null, false, false, false, false],
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
   {
@@ -3497,7 +3497,7 @@
     "weight": 100,
     "title": "Queso Lactican 45%",
     "calories": 327,
-    "groupBloodNotAllowed": [null, true, true, false, false],
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -3508,7 +3508,7 @@
     "weight": 100,
     "title": "Harina de maíz amarillo",
     "calories": 340,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -3519,7 +3519,7 @@
     "weight": 100,
     "title": "Copos de maíz",
     "calories": 360,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -3530,7 +3530,7 @@
     "weight": 100,
     "title": "Galletas de avena",
     "calories": 464,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -3541,7 +3541,7 @@
     "weight": 100,
     "title": "Queso Lazurit",
     "calories": 285,
-    "groupBloodNotAllowed": [null, true, true, false, false],
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -3552,7 +3552,7 @@
     "weight": 100,
     "title": "Copos de espelta",
     "calories": 332,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -3563,7 +3563,7 @@
     "weight": 100,
     "title": "Copos de avena finos",
     "calories": 354,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
 
@@ -3575,7 +3575,7 @@
     "weight": 100,
     "title": "Jamón en forma",
     "calories": 278,
-    "groupBloodNotAllowed": [null, false, true, false, true],
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -3586,7 +3586,7 @@
     "weight": 100,
     "title": "Carne de pollo picada",
     "calories": 143,
-    "groupBloodNotAllowed": [null, false, false, false, false],
+    "groupBloodNotAllowed": [false, false, false, false],
     "__v": 0
   },
 
@@ -3598,7 +3598,7 @@
     "weight": 100,
     "title": "Picadillo de cerdo y carne de res casero Miratorg",
     "calories": 310,
-    "groupBloodNotAllowed": [null, false, true, false, true],
+    "groupBloodNotAllowed": [false, true, false, true],
     "__v": 0
   },
   {
@@ -3609,7 +3609,7 @@
     "weight": 100,
     "title": "Queso Cantali",
     "calories": 234,
-    "groupBloodNotAllowed": [null, true, true, false, false],
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -3620,7 +3620,7 @@
     "weight": 100,
     "title": "Pizza Ristorante Speciale",
     "calories": 255,
-    "groupBloodNotAllowed": [null, true, true, true, true],
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -3631,7 +3631,7 @@
     "weight": 100,
     "title": "Panecillo de Moscú",
     "calories": 330,
-    "groupBloodNotAllowed": [null, true, true, true, true],
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -3642,7 +3642,7 @@
     "weight": 100,
     "title": "Copos de trigo integral Nestle Fitness",
     "calories": 357,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -3653,7 +3653,7 @@
     "weight": 100,
     "title": "Pasta Makfa Express",
     "calories": 342,
-    "groupBloodNotAllowed": [null, true, true, true, true],
+    "groupBloodNotAllowed": [true, true, true, true],
     "__v": 0
   },
   {
@@ -3664,7 +3664,7 @@
     "weight": 100,
     "title": "Queso cottage Casa en el pueblo 9%",
     "calories": 153,
-    "groupBloodNotAllowed": [null, true, true, false, false],
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -3675,7 +3675,7 @@
     "weight": 100,
     "title": "Queso cottage Prostokvashino 5% granulado",
     "calories": 105,
-    "groupBloodNotAllowed": [null, true, true, false, false],
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -3686,7 +3686,7 @@
     "weight": 100,
     "title": "Copos de 4 cereales Myllyn Paras",
     "calories": 320,
-    "groupBloodNotAllowed": [null, true, false, false, false],
+    "groupBloodNotAllowed": [true, false, false, false],
     "__v": 0
   },
   {
@@ -3697,7 +3697,7 @@
     "weight": 100,
     "title": "Queso Abondance",
     "calories": 350,
-    "groupBloodNotAllowed": [null, true, true, false, false],
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   },
   {
@@ -3708,7 +3708,7 @@
     "weight": 100,
     "title": "Queso alpino",
     "calories": 353,
-    "groupBloodNotAllowed": [null, true, true, false, false],
+    "groupBloodNotAllowed": [true, true, false, false],
     "__v": 0
   }
 ]

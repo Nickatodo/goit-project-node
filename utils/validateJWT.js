@@ -5,7 +5,7 @@ const validateJWT = (req, res, next) => {
     req.headers.authorization && req.headers.authorization.split(" ")[1];
   try {
     const payload = jwt.verify(token, process.env.JWT_SECRET);
-    req.user = payload._id;
+    req.user = payload;
     next();
   } catch (error) {
     res.status(401).json({ message: "Not authorized" });

@@ -23,6 +23,11 @@ const userSchema = Schema(
       default: null,
     },
     // Probablemente haya que guardar en el usuario peso altura y demas datos.
+    bloodType: {
+      type: String,
+      enum: ["A", "B", "AB", "O"],
+      default: null,
+    },
   },
   {
     versionKey: false,

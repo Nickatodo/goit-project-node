@@ -3,11 +3,22 @@ const { Product } = require("../../schema/productSchema");
 const getProducts = async (req, res) => {
   try {
     const conf = {};
+
+    const bloodTypeIndex = {
+      A: 0,
+      B: 1,
+      AB: 2,
+      O: 3,
+    }[req.user.bloodType];
+
+    conf[`groupBloodNotAllowed.${bloodTypeIndex}`] = false;
+
     if (req.query.title) {
       conf.title = { $regex: req.query.title, $options: "i" };
     }
+
+    console.log(conf);
     const products = await Product.find(conf);
-    // Podria filtrarlo segun tipo de sangre (Pendiente)
     res.status(200).json({ products });
   } catch (error) {
     res.status(400).json({ error: "Error DB" });

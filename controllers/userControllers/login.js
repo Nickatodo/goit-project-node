@@ -19,8 +19,12 @@ const login = async (req, res) => {
         message: "Email or password is wrong",
       });
     }
-
-    const token = await generateJWT(user._id, user.name, user.email);
+    const token = await generateJWT(
+      user._id,
+      user.name,
+      user.email,
+      user.bloodType
+    );
     await User.findByIdAndUpdate(user._id, {
       token: token,
     });
