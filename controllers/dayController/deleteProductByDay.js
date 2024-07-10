@@ -20,7 +20,7 @@ const deleteProductByDay = async (req, res) => {
     }
 
     const deleteConsumer = await Consumer.findOne({
-      user: req.user,
+      user: req.user._id,
       date: new Date(date),
     });
 
@@ -29,7 +29,7 @@ const deleteProductByDay = async (req, res) => {
     }
 
     const foodExist = deleteConsumer.foods.some(
-      (food) => food.title.toString() === title && food.weight === weight
+      (food) => food.title.toString() === title
     );
     if (!foodExist) {
       return res.status(400).json({
@@ -38,7 +38,7 @@ const deleteProductByDay = async (req, res) => {
     }
 
     deleteConsumer.foods = deleteConsumer.foods.filter(
-      (food) => !(food.title.toString() === title && food.weight === weight)
+      (food) => !(food.title.toString() === title)
     );
     await deleteConsumer.save();
 

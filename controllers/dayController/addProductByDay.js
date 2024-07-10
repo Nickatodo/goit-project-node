@@ -20,18 +20,18 @@ const addProductByDay = async (req, res) => {
     }
 
     let newConsumer = await Consumer.findOne({
-      user: req.user,
+      user: req.user._id,
       date: new Date(date),
     });
     if (!newConsumer) {
       newConsumer = Consumer({
-        user: req.user,
+        user: req.user._id,
         date: new Date(date),
         foods: [],
       });
     } else {
       const foodExist = newConsumer.foods.some(
-        (food) => food.title.toString() === title && food.weight === weight
+        (food) => food.title.toString() === title
       );
       if (foodExist) {
         return res.status(400).json({
@@ -48,7 +48,7 @@ const addProductByDay = async (req, res) => {
 
     res.status(200).json({ newConsumer: populatedConsumer });
   } catch (error) {
-    res.status(404).json({ message: "Error add consumer" });
+    res.status(500).json({ message: "Error add consumer" });
   }
 };
 
