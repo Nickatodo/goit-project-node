@@ -27,11 +27,11 @@ const dailyRateById = async (req, res) => {
       AB: 2,
       O: 3,
     }[bloodType];
-    const nonRecommendaded = await Product.find({
+    const products = await Product.find({
       [`groupBloodNotAllowed.${bloodTypeIndex}`]: true,
     });
 
-    res.status(200).json({ calories, nonRecommendaded });
+    res.status(200).json({ calories, products });
   } catch (error) {
     res.status(500).json({ message: "Error calculating daily rate" });
   }
