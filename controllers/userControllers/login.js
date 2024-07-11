@@ -30,7 +30,12 @@ const login = async (req, res) => {
     });
     res.status(200).json({
       token: token,
-      user: { id: user._id, name: user.name, email: user.email },
+      user: {
+        id: user._id,
+        name: user.name,
+        email: user.email,
+        bloodType: user.bloodType,
+      },
     });
   } catch (error) {
     res
