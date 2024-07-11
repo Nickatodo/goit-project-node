@@ -16,6 +16,7 @@ const consumerSchema = Schema(
       {
         title: { type: Types.ObjectId, ref: "products", required: true },
         weight: { type: Number, required: true },
+        calories: { type: Number, required: true },
       },
     ],
   },
@@ -30,6 +31,7 @@ const addConsumerSchema = Joi.object({
   title: Joi.string().required(),
   weight: Joi.number().required(),
   date: Joi.date().iso().required(),
+  calories: Joi.number().required(),
 });
 
 module.exports = { Consumer, addConsumerSchema };

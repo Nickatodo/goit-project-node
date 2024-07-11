@@ -10,7 +10,7 @@ const addProductByDay = async (req, res) => {
       });
     }
 
-    const { date, title, weight } = req.body;
+    const { date, title, weight, calories } = req.body;
 
     const verifyFood = await Product.findById(title);
     if (!verifyFood) {
@@ -39,7 +39,8 @@ const addProductByDay = async (req, res) => {
         });
       }
     }
-    newConsumer.foods.push({ title, weight });
+    const totalCalories = (weight * calories) / 100;
+    newConsumer.foods.push({ title, weight, calories: totalCalories });
     await newConsumer.save();
 
     const populatedConsumer = await Consumer.findById(newConsumer._id)
