@@ -34,4 +34,9 @@ const addConsumerSchema = Joi.object({
   calories: Joi.number().required(),
 });
 
-module.exports = { Consumer, addConsumerSchema };
+const deleteConsumerSchema = Joi.object({
+  title: Joi.string().required(),
+  date: Joi.date().iso().required(),
+});
+
+module.exports = { Consumer, addConsumerSchema, deleteConsumerSchema };
