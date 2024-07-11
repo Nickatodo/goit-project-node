@@ -31,7 +31,7 @@ const dailyRateById = async (req, res) => {
       [`groupBloodNotAllowed.${bloodTypeIndex}`]: true,
     });
 
-    res.status(200).json({ calories, products });
+    res.status(200).json({ calories, products, bloodType });
   } catch (error) {
     res.status(500).json({ message: "Error calculating daily rate" });
   }
