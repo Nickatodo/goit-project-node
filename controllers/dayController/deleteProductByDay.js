@@ -12,7 +12,7 @@ const deleteProductByDay = async (req, res) => {
         message: "missing required field",
       });
     }
-    const { date, title } = req.body;
+    const { title, date } = req.body;
 
     const verifyFood = await Product.findById(title);
     if (!verifyFood) {
