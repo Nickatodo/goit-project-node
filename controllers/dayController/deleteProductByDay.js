@@ -1,16 +1,17 @@
-const { Product } = require("../../schema/productSchema");
+//const { Product } = require("../../schema/productSchema");
 const { Consumer } = require("../../schema/consumerSchema");
 
 const deleteProductByDay = async (req, res) => {
   try {
     const { date, title } = req.body;
 
+    /*
     const verifyFood = await Product.findById(title);
     if (!verifyFood) {
       return res.status(400).json({
         message: "food not found",
       });
-    }
+    }*/
 
     const deleteConsumer = await Consumer.findOne({
       user: req.user._id,
