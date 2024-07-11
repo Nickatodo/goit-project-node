@@ -1,16 +1,9 @@
 const { Product } = require("../../schema/productSchema");
-const { Consumer, addConsumerSchema } = require("../../schema/consumerSchema");
+const { Consumer } = require("../../schema/consumerSchema");
 
 const deleteProductByDay = async (req, res) => {
   try {
-    const { error } = addConsumerSchema.validate(req.body);
-    if (error) {
-      return res.status(400).json({
-        message: "missing required field",
-      });
-    }
-
-    const { date, title, weight } = req.body;
+    const { date, title } = req.body;
 
     const verifyFood = await Product.findById(title);
     if (!verifyFood) {
