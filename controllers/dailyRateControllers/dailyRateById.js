@@ -1,5 +1,6 @@
 const { User } = require("../../schema/userSchema");
 const { Product } = require("../../schema/productSchema");
+const { generateJWT } = require("../../utils/generateJWT");
 
 const dailyRateById = async (req, res) => {
   try {
@@ -21,6 +22,16 @@ const dailyRateById = async (req, res) => {
     user.totalCalories = calories;
     await user.save();
 
+    const token = await generateJWT(
+      user._id,
+      user.name,
+      user.email,
+      user.bloodType
+    );
+    await User.findByIdAndUpdate(user._id, {
+      token: token,
+    });
+
     const bloodTypeIndex = {
       A: 0,
       B: 1,
@@ -31,7 +42,7 @@ const dailyRateById = async (req, res) => {
       [`groupBloodNotAllowed.${bloodTypeIndex}`]: true,
     });
 
-    res.status(200).json({ calories, products, bloodType });
+    res.status(200).json({ calories, products, bloodType, token });
   } catch (error) {
     res.status(500).json({ message: "Error calculating daily rate" });
   }
