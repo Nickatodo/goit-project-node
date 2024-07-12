@@ -3,11 +3,12 @@ const logger = require("morgan");
 const cors = require("cors");
 const connectDB = require("./db/config");
 require("dotenv").config();
+const fs = require("fs");
+const path = require("path");
 
-const swaggerJsdoc = require("swagger-jsdoc");
+//Configuracion Swagger
 const swaggerUi = require("swagger-ui-express");
-const options = require("./utils/options.swagger");
-const specs = swaggerJsdoc(options);
+const swaggerJsdoc = require("swagger-jsdoc");
 
 const app = express();
 
@@ -23,11 +24,24 @@ connectDB();
 
 app.use("/api", appRouter);
 
-app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(specs));
-
 app.get("/", (req, res, next) => {
   res.send("<h1>GoIT Proyect Node</h1>");
 });
+
+//Swagger
+const swaggerFilePath = path.join(__dirname, "swagger.json");
+const swaggerDocument = JSON.parse(fs.readFileSync(swaggerFilePath, "utf8"));
+
+const swaggerOptions = {
+  swaggerDefinition: swaggerDocument,
+  apis: [
+    "./routes/api/router.js",
+    "./controllers/dailyRateControllers/dailyRate.js",
+  ],
+};
+
+const swaggerDocs = swaggerJsdoc(swaggerOptions);
+app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerDocs));
 
 app.use((req, res) => {
   res.status(404).json({ message: "Not found" });

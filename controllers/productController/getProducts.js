@@ -13,9 +13,10 @@ const getProducts = async (req, res) => {
 
     conf[`groupBloodNotAllowed.${bloodTypeIndex}`] = false;
 
+    /*
     if (req.query.title) {
       conf.title = { $regex: req.query.title, $options: "i" };
-    }
+    }*/
 
     const products = await Product.find(conf);
     res.status(200).json({ products });
