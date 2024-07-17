@@ -1,3 +1,34 @@
+/**
+ * @swagger
+ * /products:
+ *   get:
+ *     summary: Get a list of products allowed for the user's blood type.
+ *     tags: [Products]
+ *     responses:
+ *       200:
+ *         description: Successfully retrieved the list of products allowed for the user's blood type.
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 products:
+ *                   type: array
+ *                   items:
+ *                     type: object
+ *                     properties:
+ *                       _id:
+ *                         type: string
+ *                       title:
+ *                         type: string
+ *                       weight:
+ *                         type: number
+ *                       calories:
+ *                         type: number
+ *       400:
+ *         description: Error retrieving the products from the database.
+ */
+
 const { Product } = require("../../schema/productSchema");
 
 const getProducts = async (req, res) => {
@@ -12,11 +43,6 @@ const getProducts = async (req, res) => {
     }[req.user.bloodType];
 
     conf[`groupBloodNotAllowed.${bloodTypeIndex}`] = false;
-
-    /*
-    if (req.query.title) {
-      conf.title = { $regex: req.query.title, $options: "i" };
-    }*/
 
     const products = await Product.find(conf);
     res.status(200).json({ products });

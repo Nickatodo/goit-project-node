@@ -1,3 +1,56 @@
+/**
+ * @swagger
+ * /login:
+ *   post:
+ *     summary: Log in a user and generate a JWT token.
+ *     tags: [Authentication]
+ *     requestBody:
+ *       required: true
+ *       content:
+ *         application/json:
+ *           schema:
+ *             type: object
+ *             properties:
+ *               email:
+ *                 type: string
+ *                 description: The email of the user.
+ *                 example: user@example.com
+ *               password:
+ *                 type: string
+ *                 description: The password of the user.
+ *                 example: password123
+ *     responses:
+ *       200:
+ *         description: Successfully logged in and generated a JWT token.
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 token:
+ *                   type: string
+ *                   description: The JWT token for the user session.
+ *                 user:
+ *                   type: object
+ *                   properties:
+ *                     id:
+ *                       type: string
+ *                       description: The ID of the user.
+ *                     name:
+ *                       type: string
+ *                       description: The name of the user.
+ *                     email:
+ *                       type: string
+ *                       description: The email of the user.
+ *                     bloodType:
+ *                       type: string
+ *                       description: The blood type of the user.
+ *       401:
+ *         description: Invalid email or password.
+ *       400:
+ *         description: Error with Joi validation or other library validation.
+ */
+
 const { User } = require("../../schema/userSchema");
 const bcrypt = require("bcrypt");
 const { generateJWT } = require("../../utils/generateJWT");

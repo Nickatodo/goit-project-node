@@ -35,8 +35,10 @@ const swaggerDocument = JSON.parse(fs.readFileSync(swaggerFilePath, "utf8"));
 const swaggerOptions = {
   swaggerDefinition: swaggerDocument,
   apis: [
-    "./routes/api/router.js",
-    "./controllers/dailyRateControllers/dailyRate.js",
+    "./routes/api/*.js",
+    "./controllers/*/*.js",
+    "./schema/*.js",
+    "./utils/*.js",
   ],
 };
 

@@ -3,105 +3,166 @@
   "info": {
     "title": "BackEnd para sitio SlimMom",
     "version": "1.0.0",
-    "description": "API documentacion"
+    "description": "Documentación de la API para el sitio SlimMom, incluyendo autenticación y generación de tokens JWT."
   },
   "servers": [
     {
-      "url": "https://slim-mom-bd9397140525.herokuapp.com",
-      "description": "Server Heroku"
+      "url": "https://slim-mom-bd9397140525.herokuapp.com/api",
+      "description": "Servidor de producción en Heroku"
     }
   ],
+  "components": {
+    "schemas": {
+      "User": {
+        "type": "object",
+        "required": ["name", "email", "password"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Nombre del usuario."
+          },
+          "email": {
+            "type": "string",
+            "description": "Correo electrónico del usuario."
+          },
+          "password": {
+            "type": "string",
+            "description": "Contraseña del usuario."
+          },
+          "token": {
+            "type": "string",
+            "description": "Token JWT del usuario."
+          },
+          "height": {
+            "type": "number",
+            "description": "Altura del usuario en cm."
+          },
+          "desiredWeight": {
+            "type": "number",
+            "description": "Peso deseado del usuario en kg."
+          },
+          "age": {
+            "type": "number",
+            "description": "Edad del usuario."
+          },
+          "bloodType": {
+            "type": "string",
+            "enum": ["A", "B", "AB", "O"],
+            "description": "Tipo de sangre del usuario."
+          },
+          "currentWeight": {
+            "type": "number",
+            "description": "Peso actual del usuario en kg."
+          },
+          "totalCalories": {
+            "type": "number",
+            "description": "Total de calorías consumidas."
+          }
+        },
+        "example": {
+          "name": "Juan Pérez",
+          "email": "juan.perez@example.com",
+          "password": "contraseña123",
+          "token": "your_jwt_token",
+          "height": 180,
+          "desiredWeight": 75,
+          "age": 30,
+          "bloodType": "O",
+          "currentWeight": 77,
+          "totalCalories": 2000
+        }
+      },
+      "TokenResponse": {
+        "type": "object",
+        "properties": {
+          "token": {
+            "type": "string",
+            "description": "Token JWT para el usuario."
+          }
+        },
+        "example": {
+          "token": "your_jwt_token"
+        }
+      },
+      "ErrorResponse": {
+        "type": "object",
+        "properties": {
+          "message": {
+            "type": "string",
+            "description": "Mensaje de error."
+          }
+        },
+        "example": {
+          "message": "No autorizado"
+        }
+      }
+    },
+    "securitySchemes": {
+      "BearerAuth": {
+        "type": "http",
+        "scheme": "bearer",
+        "bearerFormat": "JWT"
+      }
+    }
+  },
   "paths": {
-    "/api/daily-rate/v1/daily-rate": {
+    "/auth/generate-token": {
       "post": {
-        "summary": "Calculate daily caloric intake and get recommended products",
+        "summary": "Generar un token JWT para el usuario.",
+        "tags": ["Auth"],
         "requestBody": {
           "required": true,
           "content": {
             "application/json": {
               "schema": {
-                "type": "object",
-                "required": [
-                  "height",
-                  "desiredWeight",
-                  "age",
-                  "bloodType",
-                  "currentWeight"
-                ],
-                "properties": {
-                  "height": {
-                    "type": "number",
-                    "example": 170
-                  },
-                  "desiredWeight": {
-                    "type": "number",
-                    "example": 65
-                  },
-                  "age": {
-                    "type": "number",
-                    "example": 30
-                  },
-                  "bloodType": {
-                    "type": "string",
-                    "example": "A"
-                  },
-                  "currentWeight": {
-                    "type": "number",
-                    "example": 70
-                  }
-                }
+                "$ref": "#/components/schemas/User"
+              },
+              "example": {
+                "name": "Juan Pérez",
+                "email": "juan.perez@example.com",
+                "password": "contraseña123"
               }
             }
           }
         },
         "responses": {
           "200": {
-            "description": "Successfully calculated daily caloric intake and fetched products",
+            "description": "Token JWT generado con éxito.",
             "content": {
               "application/json": {
                 "schema": {
-                  "type": "object",
-                  "properties": {
-                    "calories": {
-                      "type": "number",
-                      "example": 1500
-                    },
-                    "products": {
-                      "type": "array",
-                      "items": {
-                        "type": "object",
-                        "properties": {
-                          "name": {
-                            "type": "string",
-                            "example": "Apple"
-                          },
-                          "calories": {
-                            "type": "number",
-                            "example": 52
-                          }
-                        }
-                      }
-                    }
-                  }
+                  "$ref": "#/components/schemas/TokenResponse"
                 }
               }
             }
           },
-          "404": {
-            "description": "Error when calculating",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "type": "object",
-                  "properties": {
-                    "message": {
-                      "type": "string",
-                      "example": "Error when calculating"
-                    }
-                  }
-                }
-              }
-            }
+          "400": {
+            "description": "Solicitud incorrecta."
+          },
+          "500": {
+            "description": "Error del servidor."
+          }
+        }
+      }
+    },
+    "/auth/validate-token": {
+      "get": {
+        "summary": "Validar el token JWT.",
+        "tags": ["Auth"],
+        "security": [
+          {
+            "BearerAuth": []
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Token es válido."
+          },
+          "401": {
+            "$ref": "#/components/schemas/ErrorResponse"
+          },
+          "500": {
+            "description": "Error del servidor."
           }
         }
       }

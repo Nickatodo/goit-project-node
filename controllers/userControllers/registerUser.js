@@ -1,3 +1,51 @@
+/**
+ * @swagger
+ * /register:
+ *   post:
+ *     summary: Register a new user with a name, email, and password.
+ *     tags: [Authentication]
+ *     requestBody:
+ *       required: true
+ *       content:
+ *         application/json:
+ *           schema:
+ *             type: object
+ *             properties:
+ *               name:
+ *                 type: string
+ *                 description: The name of the user.
+ *                 example: John Doe
+ *               email:
+ *                 type: string
+ *                 description: The email of the user.
+ *                 example: user@example.com
+ *               password:
+ *                 type: string
+ *                 description: The password for the user.
+ *                 example: password123
+ *     responses:
+ *       201:
+ *         description: Successfully registered a new user.
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 user:
+ *                   type: object
+ *                   properties:
+ *                     name:
+ *                       type: string
+ *                       description: The name of the user.
+ *                     email:
+ *                       type: string
+ *                       description: The email of the user.
+ *       400:
+ *         description: Validation error or other validation library errors.
+ *       409:
+ *         description: Email is already in use.
+ */
+
 const { User, addUserSchema } = require("../../schema/userSchema");
 const bcrypt = require("bcrypt");
 

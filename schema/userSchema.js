@@ -74,4 +74,120 @@ module.exports = {
   User,
   addUserSchema,
   addDataUserSchema,
+  /**
+   * @swagger
+   * components:
+   *   schemas:
+   *     User:
+   *       type: object
+   *       required:
+   *         - name
+   *         - email
+   *         - password
+   *       properties:
+   *         id:
+   *           type: string
+   *           format: ObjectId
+   *           description: ID of the user.
+   *         name:
+   *           type: string
+   *           description: Name of the user.
+   *         email:
+   *           type: string
+   *           description: Email of the user.
+   *         password:
+   *           type: string
+   *           description: Password of the user.
+   *         token:
+   *           type: string
+   *           description: JWT token for the user.
+   *         height:
+   *           type: number
+   *           description: Height of the user in cm.
+   *         desiredWeight:
+   *           type: number
+   *           description: Desired weight of the user in kg.
+   *         age:
+   *           type: number
+   *           description: Age of the user.
+   *         bloodType:
+   *           type: string
+   *           description: Blood type of the user.
+   *         currentWeight:
+   *           type: number
+   *           description: Current weight of the user in kg.
+   *         totalCalories:
+   *           type: number
+   *           description: Total calories calculated for the user.
+   *       example:
+   *         id: 60c72b2f5b8c8c001f647b75
+   *         name: John Doe
+   *         email: john.doe@example.com
+   *         password: securepassword123
+   *         token: your_jwt_token
+   *         height: 175
+   *         desiredWeight: 70
+   *         age: 30
+   *         bloodType: A
+   *         currentWeight: 75
+   *         totalCalories: 2000
+   *     AddUserRequest:
+   *       type: object
+   *       required:
+   *         - name
+   *         - email
+   *         - password
+   *       properties:
+   *         name:
+   *           type: string
+   *           description: Name of the user.
+   *         email:
+   *           type: string
+   *           description: Email of the user.
+   *         password:
+   *           type: string
+   *           description: Password for the user.
+   *       example:
+   *         name: John Doe
+   *         email: john.doe@example.com
+   *         password: securepassword123
+   *     AddDataUserRequest:
+   *       type: object
+   *       required:
+   *         - height
+   *         - desiredWeight
+   *         - age
+   *         - bloodType
+   *         - currentWeight
+   *       properties:
+   *         height:
+   *           type: number
+   *           description: Height of the user in cm.
+   *         desiredWeight:
+   *           type: number
+   *           description: Desired weight of the user in kg.
+   *         age:
+   *           type: number
+   *           description: Age of the user.
+   *         bloodType:
+   *           type: string
+   *           description: Blood type of the user.
+   *         currentWeight:
+   *           type: number
+   *           description: Current weight of the user in kg.
+   *       example:
+   *         height: 175
+   *         desiredWeight: 70
+   *         age: 30
+   *         bloodType: A
+   *         currentWeight: 75
+   *     TokenResponse:
+   *       type: object
+   *       properties:
+   *         token:
+   *           type: string
+   *           description: JWT token for the user.
+   *       example:
+   *         token: your_jwt_token
+   */
 };
